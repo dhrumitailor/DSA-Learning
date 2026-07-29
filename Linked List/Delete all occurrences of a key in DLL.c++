@@ -43,6 +43,13 @@ public:
                     temp->next->prev = temp->prev;
                 }
             }
+
+
+
+
+
+
+            
             temp = temp->next;
         }
         return head;
