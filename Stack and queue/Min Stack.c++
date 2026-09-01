@@ -40,4 +40,4 @@ stack<int>mn;
  * obj->pop();
  * int param_3 = obj->top();
  * int param_4 = obj->getMin();
- */
+ */496. Next Greater Element I
